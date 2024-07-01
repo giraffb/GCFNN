@@ -1,0 +1,596 @@
+541	urobilin.1
+543	methylimidazole acetic acid
+439	phenylalanine.1
+436	valine
+526	cadaverine
+515	7-methylxanthine
+580	C18:2 LPC.1
+578	C16:0 LPC.1
+468	2-deoxyadenosine
+413	urate
+462	spermidine
+437	leucine.1
+440	tyrosine.1
+450	ADMA/SDMA
+24	linoleate
+554	N-acetylhistamine
+550	N6-acetyllysine.1
+441	tryptophan.1
+545	N1,N12-diacetylspermine
+438	isoleucine
+587	C18:0 LPE-A
+297	NH4_C54:3 TAG
+25	oleate
+256	NH4_C36:2 DAG
+563	phytosphingosine
+296	NH4_C54:4 TAG
+547	N1-acetylspermine
+593	sphingosine-isomer3
+295	NH4_C54:5 TAG
+483	C4 carnitine
+519	agmatine
+339	citrulline
+572	sulfapyridine
+255	NH4_C36:3 DAG
+579	C18:3 LPC
+561	nicotinuric acid
+591	sphingosine-isomer1
+575	urobilin.2
+288	NH4_C52:3 TAG
+337	cinnamoylglycine
+421	cytidine
+539	imidazoleacetic acid
+218	C54:3 TAG
+289	NH4_C52:2 TAG
+477	beta-alanine
+23	alpha-linolenate
+452	aminoisobutyric acid/GABA
+47	deoxycholate
+328	arginine
+16	pentadecanoate
+531	ectoine
+474	butyrobetaine
+425	pantothenate.1
+217	C54:4 TAG
+336	cholate.1
+592	sphingosine-isomer2
+216	C54:5 TAG
+566	pterin
+254	NH4_C36:4 DAG
+32	arachidonate
+261	NH4_C42:0 TAG
+215	C54:6 TAG
+178	C36:2 DAG
+210	C52:3 TAG
+209	C52:4 TAG
+211	C52:2 TAG
+464	creatinine
+83	phenyllactate
+402	suberate
+45	lithocholate
+529	alanylalanine
+567	pyridoxine
+534	histidinol
+62	taurocholate
+287	NH4_C52:4 TAG
+86	urobilin
+557	N-acetylputrescine
+535	homoarginine
+177	C36:3 DAG
+43	oleanate
+58	taurochenodeoxycholate
+174	C34:1 DAG
+219	C54:2 TAG
+520	alloisoleucine
+564	piperine.1
+173	C34:2 DAG
+581	C18:1 LPC.1
+586	C16:0 LPE.1
+264	NH4_C44:0 TAG
+298	NH4_C54:2 TAG
+51	cholate
+522	atenolol
+469	2-deoxycytidine
+375	lithocholate.1
+294	NH4_C54:6 TAG
+430	aspartate.1
+93	C16:0 LPC
+540	linoleoyl ethanolamide.1
+565	proline betaine
+369	indoxyl sulfate
+501	C20:4 carnitine
+50	alpha-muricholate
+38	docosahexaenoate
+461	acetylcholine
+379	N6-acetyllysine
+286	NH4_C52:5 TAG
+403	succinate
+252	NH4_C34:2 DAG
+525	biotin
+19	palmitate
+533	guanidoacetic acid
+144	C16:0 SM
+278	NH4_C50:2 TAG
+498	C18:1-OH carnitine
+509	3'-O-methyladenosine
+532	gabapentin.1
+466	adenosine
+15	dodecanedioate
+11	dodecanoate
+479	carnitine
+176	C36:4 DAG
+442	proline.1
+94	C18:2 LPC
+542	metformin
+446	taurine.1
+253	NH4_C34:1 DAG
+85	porphobilinogen
+480	C2 carnitine
+562	N-methylproline
+182	C42:0 TAG
+582	C18:0 LPC.1
+49	ketodeoxycholate
+268	NH4_C46:0 TAG
+385	pantothenate
+384	oxalate
+538	imidazole propionate
+96	C18:0 LPC
+46	chenodeoxycholate
+26	stearate
+185	C44:0 TAG
+14	myristate
+95	C18:1 LPC
+457	niacinamide
+212	C52:1 TAG
+279	NH4_C50:1 TAG
+53	glycochenodeoxycholate
+257	NH4_C36:1 DAG
+420	bilirubin
+589	C22:6 LPE
+546	N1-acetylspermidine
+472	5-aminolevulinic acid
+373	leucine
+401	sorbitol
+357	glutamate
+40	adrenate
+33	eicosatrienoate
+333	butyrate
+156	C18:2 CE
+326	alpha-ketoglutarate
+571	sphinganine
+168	C30:0 DAG
+463	creatine
+137	linoleoylethanolamide
+585	C18:1 LPC plasmalogen
+199	C50:2 TAG
+588	C18:0 LPE-B
+190	C46:0 TAG
+273	NH4_C48:0 TAG
+290	NH4_C52:1 TAG
+39	docosapentaenoate
+195	C48:0 TAG
+56	glycocholate
+179	C36:1 DAG
+530	diacetylspermine
+569	S-adenosylmethionine
+226	C56:3 TAG
+485	C8 carnitine
+220	C54:1 TAG
+18	palmitoleate
+301	NH4_C56:3 TAG
+200	C50:1 TAG
+434	arginine.1
+365	hydrocinnamate.1
+227	C56:2 TAG
+459	choline
+308	2-hydroxy-3-methylpentanoate
+213	C52:0 TAG
+343	diaminopimelate
+417	xanthurenate
+237	NH4_C18:2 CE
+414	uridine
+31	eicosapentaenoate
+405	taurine
+64	theophylline
+99	C20:3 LPC
+335	caprylate
+508	3-methylxanthine
+54	glycodeoxycholate
+114	C34:1 PC
+34	eicosadienoate
+553	N-acetylglutamine
+139	C16:0 Ceramide (d18:1)
+423	hypoxanthine.1
+389	phenylalanine
+371	lactate
+201	C50:0 TAG
+60	taurohyodeoxycholate/tauroursodeoxycholate
+150	C24:1 SM
+573	threosphingosine
+171	C32:0 DAG
+208	C52:5 TAG
+175	C34:0 DAG
+415	valerate/isovalerate
+44	masilinate
+285	NH4_C52:6 TAG
+514	7-methylguanine
+307	2-hydroxy-3-methylbutyrate
+207	C52:6 TAG
+348	epiandrosterone
+102	C16:0 LPE
+325	alpha-glycerophosphate
+595	C16:0 SM.1
+317	4-pyridoxate
+127	C34:1 PC plasmalogen
+334	caproate.1
+35	eicosenoate
+157	C18:1 CE
+21	10-heptadecenoate
+300	NH4_C56:4 TAG
+233	piperine
+48	hyodeoxycholate/ursodeoxycholate
+75	4-hydroxystyrene
+97	C20:5 LPC
+574	trigonelline
+354	gabapentin
+111	C32:0 PC
+322	adenine
+584	C16:1 LPC plasmalogen
+280	NH4_C50:0 TAG
+172	C34:3 DAG
+351	fructose/glucose/galactose
+198	C50:3 TAG
+412	uracil
+291	NH4_C52:0 TAG
+410	tyrosine
+524	biliverdin
+302	NH4_C56:2 TAG
+305	2-aminoadipate
+142	C24:1 Ceramide (d18:1)
+390	proline
+277	NH4_C50:3 TAG
+180	C36:0 DAG
+495	C16-OH carnitine
+228	C56:1 TAG
+560	N6,N6,N6-trimethyllysine
+318	5-acetylamino-6-amino-3-methyluracil
+119	C36:2 PC
+329	ascorbate
+497	C18:1 carnitine
+331	aspartate
+68	2-hydroxyibuprofen
+362	heptadecanoate
+396	saccharin.1
+404	tartarate
+315	4-methylcatechol
+488	C10:2 carnitine
+521	alpha-hydroxymetoprolol
+160	C20:4 CE
+320	acesulfame.1
+523	beta-guanidinopropionic acid
+386	pentose monophosphate
+313	4-hydroxybenzaldehyde
+345	docosapentaenoate.1
+225	C56:4 TAG
+238	NH4_C18:1 CE
+416	xanthine
+458	betaine
+471	pipecolic acid
+548	N1-methyl-2-pyridone-5-carboxamide
+57	taurolithocholate
+453	kynurenic acid
+435	lysine
+409	tryptophan
+151	C24:0 SM
+527	caffeine
+577	C16:1 LPC.1
+65	saccharin
+393	pyrocatechol
+59	taurodeoxycholate
+424	inosine.1
+41	13-docosenoate
+372	lactose
+36	arachidate
+120	C36:1 PC
+494	C16 carnitine
+558	N-alpha-acetylarginine
+482	C3-DC-CH3 carnitine
+107	C20:0 LPE
+323	adipate
+292	NH4_C53:3 TAG
+352	fucose
+408	thymine
+500	C20 carnitine
+166	C18:0 MAG
+507	3-methylhistidine
+271	NH4_C48:2 TAG
+113	C34:2 PC
+130	C36:2 PC plasmalogen
+363	homovanillate
+559	N6,N6-dimethyllysine
+272	NH4_C48:1 TAG
+66	azelate
+4	hydrocinnamate
+349	erythronate
+170	C32:1 DAG
+181	C38:5 DAG
+476	methionine sulfoxide
+374	linoleoyl ethanolamide
+350	ethyl glucuronide
+6	2-hydroxyoctanoate
+445	citrulline.1
+105	C18:0 LPE
+146	C18:0 SM
+356	gentisate
+299	NH4_C56:6 TAG
+92	C16:1 LPC
+455	histamine
+303	NH4_C56:1 TAG
+380	N-acetylglutamate
+496	C18 carnitine
+499	C18:2 carnitine
+433	histidine
+310	3-hydroxymethylglutarate
+118	C36:3 PC
+165	C16:1 MAG
+197	C50:4 TAG
+517	acetaminophen
+311	3-methyladipate/pimelate
+88	acesulfame
+78	carnosol
+194	C48:1 TAG
+184	C44:1 TAG
+251	NH4_C34:3 DAG
+486	C9 carnitine
+250	NH4_C32:1 DAG
+162	C22:6 CE
+1	9.10-diHOME
+22	2-hydroxyhexadecanoate
+161	C20:3 CE
+568	quinine
+267	NH4_C46:1 TAG
+429	methionine.1
+492	C14:1 carnitine
+381	nicotinate
+230	cholesterol
+324	alanine
+154	C16:0 CE
+169	C32:2 DAG
+360	guanine
+125	C34:4 PC plasmalogen
+451	NMMA
+347	eicosapentaenoate.1
+193	C48:2 TAG
+484	C5 carnitine
+576	C14:0 LPC.1
+376	malate
+28	10-nonadecenoate
+282	NH4_C51:2 TAG
+249	NH4_C32:2 DAG
+493	C14:2 carnitine
+460	alpha-glycerophosphocholine
+10	3-hydroxydecanoate
+140	C22:0 Ceramide (d18:1)
+513	5-acetylamino-6-amino-3-methyluracil.1
+366	hypoxanthine
+370	inosine
+69	carboxyibuprofen
+270	NH4_C48:3 TAG
+309	2-hydroxyglutarate
+8	caprate
+304	1-3-7-trimethylurate
+590	C36:2 PC.1
+491	C14 carnitine
+155	C18:3 CE
+293	NH4_C53:2 TAG
+478	anserine
+153	C16:1 CE
+306	2-aminobutyrate
+159	C20:5 CE
+115	C34:0 PC
+338	citrate
+418	xylose
+276	NH4_C50:4 TAG
+116	C36:4 PC-A
+387	phenylacetate
+342	dCMP
+481	C3 carnitine
+247	NH4_C18:0 MAG
+378	methionine
+316	4-nitrophenol
+332	azelate.1
+89	oxymetazoline
+242	NH4_C20:3 CE
+87	nervonic acid
+158	C18:0 CE
+221	C55:3 TAG
+0	12.13-diHOME
+183	C44:2 TAG
+148	C22:1 SM
+583	C20:1 LPC
+241	NH4_C20:4 CE
+392	pseudouridine
+511	4-guanidinobutanoic acid
+475	putrescine
+259	NH4_C38:5 DAG
+100	C22:6 LPC
+260	NH4_C38:4 DAG
+399	serine
+368	indole-3-propionate
+467	cytosine
+262	NH4_C44:2 TAG
+243	NH4_C22:6 CE
+131	C36:1 PC plasmalogen
+29	nonadecanoate
+81	oxypurinol
+258	NH4_C36:0 DAG
+143	C16:1 SM
+490	C12:1 carnitine
+61	tauro-alpha-muricholate/tauro-beta-muricholate
+188	C46:2 TAG
+506	2'-O-methyladenosine
+84	p-hydroxyphenylacetate
+70	hydrochlorothiazide
+203	C51:2 TAG
+192	C48:3 TAG
+431	glutamate.1
+236	NH4_C18:3 CE
+516	8-hydroxy-deoxyguanosine
+55	glycoursodeoxycholate
+419	trimethylbenzene
+266	NH4_C46:2 TAG
+359	glycocholate.1
+232	beta-sitosterol
+189	C46:1 TAG
+136	palmithoylethanolamide
+364	hydrochlorothiazide.1
+134	C34:0 PE
+141	C24:0 Ceramide (d18:1)
+224	C56:6 TAG
+397	salicylate.1
+502	1-methylguanine
+12	undecanedionate
+149	C22:0 SM
+135	sphingosine
+432	glutamine
+229	C58:10 TAG
+98	C20:4 LPC
+129	C36:4 PC plasmalogen
+394	riboflavin
+398	sebacate.1
+549	N2,N2-dimethylguanosine
+117	C36:4 PC-B
+52	glycolithocholate
+27	hexadecanedioate
+80	crustecdysone
+17	hydroxymyristate
+281	NH4_C51:3 TAG
+407	threonine
+470	cotinine
+222	C55:2 TAG
+263	NH4_C44:1 TAG
+489	C12 carnitine
+122	C38:4 PC
+196	C50:5 TAG
+391	propionate
+358	glycerate
+214	C53:3 TAG
+361	guanosine
+91	C14:0 LPC
+74	1.2.3.4-tetrahydro-beta-carboline-1.3-dicarboxylate
+283	NH4_C51:1 TAG
+240	NH4_C20:5 CE
+454	1-methylhistamine
+138	C2 Ceramide (d18:1)
+427	alanine.1
+109	C30:0 PC
+377	malonate
+456	N-carbamoyl-beta-alanine
+128	C36:5 PC plasmalogen
+235	NH4_C16:0 CE
+239	NH4_C18:0 CE
+406	tetrahydro-1-methyl-beta-carboline-3-carboxylate
+191	C48:4 TAG
+132	C38:4 PC plasmalogen
+104	C18:1 LPE
+367	imidazolelactate
+223	C56:7 TAG
+124	C38:2 PC
+63	salicylate
+72	cetrizine
+284	NH4_C51:0 TAG
+594	C14:0 SM
+67	sebacate
+444	ornithine
+76	acetytyrosine
+163	C22:5 CE
+145	C18:1 SM
+400	shikimate
+13	myristoleate
+206	C52:7 TAG
+126	C34:2 PC plasmalogen
+204	C51:1 TAG
+187	C46:3 TAG
+426	glycine
+2	caproate
+555	N-acetylhistidine
+395	ribothymidine
+275	NH4_C50:5 TAG
+147	C20:0 SM
+164	C22:4 CE
+133	C32:0 PE
+231	5alpha-cholestan-3beta-ol
+30	17-methylstearate
+186	C45:0 TAG
+536	homocitrulline
+487	C10 carnitine
+388	phenylacetylglutamine
+340	corticosterone
+473	1-methylnicotinamide
+505	2-aminoheptanoic acid
+312	3-methylglutaconate
+202	C51:3 TAG
+103	C18:2 LPE
+447	5-hydroxytryptophan
+245	NH4_C22:4 CE
+355	gemfibrozil
+383	orotate
+443	hydroxyproline
+37	phytanate
+110	C32:1 PC
+353	fumarate/maleate
+152	C14:0 CE
+234	NH4_C16:1 CE
+101	C16:1 LPE
+205	C51:0 TAG
+465	trimethylamine-N-oxide
+265	NH4_C46:3 TAG
+448	serotonin
+321	acetylalanine
+274	NH4_C49:1 TAG
+106	C20:4 LPE
+382	norepinephrine
+82	palmitoylethanolamide
+344	dihydroorotate
+503	1-methylguanosine
+121	C38:6 PC
+314	4-hydroxybenzeneacetonitrile
+112	C34:3 PC
+248	NH4_C22:1 MAG
+504	21-deoxycortisol
+108	C22:0 LPE
+449	dimethylglycine
+77	alpha-CEHC
+319	5-dodecenoate
+537	hydroxycotinine
+244	NH4_C22:5 CE
+42	eicosanedioate
+556	N-acetylornithine
+269	NH4_C48:4 TAG
+428	serine.1
+528	cortisol
+512	4-hydroxy-3-methylacetophenone
+5	mandelate
+9	indoleacetate
+327	alpha-ketoisovalerate
+3	heptanoate
+346	dTMP
+167	C22:1 MAG
+422	hippurate
+330	asparagine
+20	tetradecanedioate
+123	C38:3 PC
+246	NH4_C16:1 MAG
+518	acetyl-galactosamine
+552	N-acetylaspartic acid
+570	S-methylcysteine-S-oxide
+551	N-acetyalanine
+510	4-aminophenol
+73	olmesartan
+79	carnosol_isomer
+544	metronidazole
+90	13-cis-retinoic acid
+7	3-hydroxyoctanoate
+341	cystine
+411	UMP
+71	furosemide
